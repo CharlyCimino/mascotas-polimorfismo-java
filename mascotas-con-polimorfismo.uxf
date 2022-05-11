@@ -1,0 +1,15 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>14</zoom_level><element><id>UMLClass</id><coordinates><x>616</x><y>350</y><w>196</w><h>70</h></coordinates><panel_attributes>Mascota
+-
+-
+/+ expresarse(): void/</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>728</x><y>476</y><w>182</w><h>70</h></coordinates><panel_attributes>Perro
+-
+-
++ expresarse(): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>518</x><y>476</y><w>182</w><h>70</h></coordinates><panel_attributes>Gato
+-
+-
++ expresarse(): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>714</x><y>406</y><w>140</w><h>98</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;80;50</additional_attributes></element><element><id>Relation</id><coordinates><x>588</x><y>406</y><w>126</w><h>98</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>70;10;10;50</additional_attributes></element><element><id>UMLClass</id><coordinates><x>602</x><y>182</y><w>224</w><h>70</h></coordinates><panel_attributes>Veterinaria
+-
+-
++ saludarACliente(): void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>238</y><w>126</w><h>140</h></coordinates><panel_attributes>lt=&lt;-
+m1=*
+-mascotas</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element></diagram>
