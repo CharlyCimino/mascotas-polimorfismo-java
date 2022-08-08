@@ -1,4 +1,4 @@
-package mascotas;
+package ar.charlycimino.ejemplos.mascotas;
 
 public class Gato extends Mascota {
 

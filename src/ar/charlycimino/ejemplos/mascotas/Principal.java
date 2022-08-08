@@ -1,4 +1,4 @@
-package mascotas;
+package ar.charlycimino.ejemplos.mascotas;
 
 /**
  *
